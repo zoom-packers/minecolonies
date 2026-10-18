@@ -1,5 +1,5 @@
 project.ext.customChangelogHeader = "\n" +
         "### Required Dependencies: \n" +
-        "- BlockUI: ${project.findProperty('blockUI_version') ?: '0.0.1-local'} (or above)\n" +
-        "- Domum Ornamentum: ${project.findProperty('domumOrnamentumVersion') ?: '1.0.0-local'} (or above)\n" +
-        "- Structurize: ${project.findProperty('structurize_version') ?: '0.0.1-local'} (or above)"
+        "- BlockUI: ${project.findProperty('blockUI_version') ?: '26.3-zp5.1'} (or above)\n" +
+        "- Domum Ornamentum: ${project.findProperty('domumOrnamentumVersion') ?: '26.3-zp5.1'} (or above)\n" +
+        "- Structurize: ${project.findProperty('structurize_version') ?: '26.3-zp5.1'} (or above)"

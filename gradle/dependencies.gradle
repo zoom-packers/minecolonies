@@ -23,10 +23,10 @@ repositories {
 }
 
 dependencies {
-    implementation('com.ldtteam:domum-ornamentum:1.0.0-local')
-    implementation('com.ldtteam:blockui:0.0.1-local')
-    implementation('com.ldtteam:structurize:0.0.1-local')
-    implementation('com.ldtteam:multipiston:0.0.1-local')
+    implementation('com.ldtteam:domum-ornamentum:26.3-zp5.1')
+    implementation('com.ldtteam:blockui:26.3-zp5.1')
+    implementation('com.ldtteam:structurize:26.3-zp5.1')
+    implementation('com.ldtteam:multipiston:26.3-zp5.1')
     // ZP5: DynamicTrees 26.3 isn't published; its compat class is dropped and the no-op DynamicTreeProxy stays.
 
     compileOnly 'mezz.jei:jei-26.3-neoforge-api:31.8.0.49'
